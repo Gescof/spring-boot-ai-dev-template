@@ -1,0 +1,6 @@
+{
+  "servers": [
+    { "name": "github" },
+    { "name": "docs" }
+  ]
+}
